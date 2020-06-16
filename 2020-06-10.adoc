@@ -1,0 +1,9 @@
+动物:: _dung6 mat4_ animals
+
+入边:: _jap6 bin6_
+
+出边:: _ceot1 bin6_
+
+將:: _zoeng1_ （like mandarin 把)
+
+Homework: make 2+ sentences with 將
