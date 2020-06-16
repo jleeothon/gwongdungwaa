@@ -1,9 +1,22 @@
 
 Two ways to say "meet someone"
 
-- 我同佢见面 (ngo5 tung4 keoi5 gin3 min6)
-- 我见佢 (ngo5 gin3 keoi5)
+- 我同佢见面 (ngóh tùhng kéoih gin mihn)
+- 我见佢 (ngóh gin kéoih)
 
-"gin3" is transitive (e.g. gin3 someone)
+"gin" is transitive (e.g. gin someone)
 
-"gin3 min6" is not transitive (e.g. tong4 someone gin3)
+"gin mihn" is not transitive (e.g. tòhng someone gin3)
+
+有錢:: (jáuh cìhn-formal, jáuh cín-informal)
+
+A 將 B VERB 到 C:: C must relate to B, cannot relate to A
+
+E.g.
+
+- 我將白粉賣去柏林 -> I sell the drugs in the direction of Berlin.
+- 佢將videogame玩到overheated.
+- 佢哋將白粉同埋酒搞勻 (keói deih zōeng bāak fán tùhng màai záu gáau wàhn) "They take the drugs and the wine and mix (until they are) evenly (mixed)".
+- 將名寫低 -> Write down the name.
+
+Homework: record steps from lesson 9.5.
